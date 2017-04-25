@@ -6,6 +6,7 @@
 </template>
 
 <script>
+import 'vue-multiselect/dist/vue-multiselect.min.css';
 import 'bootstrap-sass/assets/stylesheets/_bootstrap.scss';
 import 'photoswipe/src/css/main.scss';
 import 'photoswipe/dist/default-skin/default-skin.css';
